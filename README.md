@@ -1,12 +1,6 @@
 ### Hi there,👋 I'm Ritik kumar.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Ritikku59394466)
-
-### 👨‍💻 Who am I?
-### I am a Sophomore Year Student at BBIT currently undertaking my Bachelors in
-### Computer Science Engineering. I want to be a Software Developer to get the
-### experience in Development and Analysis with particular expertise
-### in Web, Machine Learning and Cloud Technologies.
+### 👨‍💻 Who am I? I am a Sophomore Year Student at BBIT currently undertaking my Bachelors in Computer Science Engineering. I want to be a Software Developer to get the experience in Development and Analysis with particular expertise in Web, Machine Learning and Cloud Technologies.
 
 - 🔭 I just currently working on Competitive Programming.
 - 🌱 I’m currently learning everything 🤣
@@ -20,6 +14,9 @@
 
 ### Connect with me:
 
+### [twitter]: https://twitter.com/Ritikku59394466
+### [instagram]: https://www.instagram.com/ritik_shrivastav843/
+### [linkedin]: https://www.linkedin.com/in/ritik-kumar-3039091ba/
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -28,7 +25,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
@@ -66,7 +63,7 @@
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
 <!--END_SECTION:activity-->
-
+<!-- 
 </details>
 
 <details>
@@ -74,7 +71,4 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
-[twitter]: https://twitter.com/Ritikku59394466
-[instagram]: https://www.instagram.com/ritik_shrivastav843/
-[linkedin]: https://www.linkedin.com/in/ritik-kumar-3039091ba/
+</details> -->
