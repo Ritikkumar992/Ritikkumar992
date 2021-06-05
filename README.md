@@ -20,4 +20,7 @@
 - 📫 How to reach me: ...https://www.linkedin.com/in/ritik-kumar-3039091ba/
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ...Randomly get to know about open source via youtube.
+### CONCLUSION:
+### Thanks for reading, I hope you found this piece useful. 
+### Happy coding!
 
