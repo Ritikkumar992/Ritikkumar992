@@ -1,4 +1,4 @@
-### Hi there 👋, RITIK  KUMAR
+### Hi there 👋, I'm RITIK  KUMAR
 #### LOVE TO BUILD PRODUCTS.
 ![LOVE TO BUILD PRODUCTS.](https://www.shutterstock.com/image-vector/picture-smart-programmer-man-joggling-programming-735664333)
 
@@ -23,13 +23,10 @@ Skills: C++ / JAVA  / REACT / JS / HTML / CSS
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />https://twitter.com/Ritikku5939446
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ritikkumar992)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/ritikku59394466)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ritik-kumar-3039091ba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ritik.shrivastav.56232)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ritik_shrivastav843//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Ritikku5939446)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15552094/ritik-kumar)  
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/ritik-kumar-3039091ba/
 
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />https://www.instagram.com/ritik_shrivastav843/
-
-<br />
+![Profile views](https://gpvc.arturio.dev/https://github.com/Ritikkumar992)
 
 ### Languages and Tools:
 
