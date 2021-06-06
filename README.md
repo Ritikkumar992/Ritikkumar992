@@ -8,7 +8,7 @@
 
 Skills: C++ / JAVA  / REACT / JS / HTML / CSS
 
-[![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritikkumar992)](https://github.com/anuraghazra/github-readme-stats)
+[![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritikkumar992&show_icons=true&theme=radical)
 
 
 - 🔭 I just currently working on Competitive Programming.
@@ -39,10 +39,9 @@ Skills: C++ / JAVA  / REACT / JS / HTML / CSS
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" >]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-<!-- 
 
-<br />
-<br /> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikkumar992&layout=compact)](https://github.com/Ritikkumar992/github-readme-stats)
+
 
 ### 📕 Latest Blog Posts
 
