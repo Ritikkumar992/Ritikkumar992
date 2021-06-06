@@ -47,3 +47,6 @@ Skills: C++ / JAVA  / REACT / JS / HTML / CSS
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ritikkumar992)](https://github.com/anuraghazra/github-readme-stats)
+
