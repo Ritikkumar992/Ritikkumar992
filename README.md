@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="60"> I'm Ritik kumar Kumar </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50"> I'm Ritik kumar Kumar </h1>
 
  <p align="center">
  <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="360">
