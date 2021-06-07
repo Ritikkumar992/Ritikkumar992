@@ -1,12 +1,16 @@
 <!--  <p align="center">
      <a href="https://github.com/Ritikkumar992"><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400" /></a> 
 </p> -->
-<p align="center">
+<!-- <h2> Hi there 👋, I'm Ritik kumar Kumar <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50"></h2> -->
+<!--  <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="250"> 
+  -->
+<!-- <p align="center">
 
  <img align='centre' src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="150">
-</p>
+</p> -->
 
-<h1 align="center">Hi 👋, I'm Ritik kumar Kumar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ritik kumar Kumar <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50"></h1> -->
+<h1 align="center"><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="40"> I'm Ritik kumar Kumar </h1>
 
  <p align="center">
 <!--     <a href="https://github.com/Ritikkumar992"><img src="https://github.com/Ritikkumar992/Ritikkumar992/blob/main/forkit.gif" /></a>  -->
