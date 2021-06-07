@@ -1,6 +1,18 @@
+ <p align="center">
+     <a href="https://github.com/Ritikkumar992"><img src="https://github.com/Ritikkumar992/Ritikkumar992/blob/main/Hello.gif" /></a> 
+</p>
+
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+
+ <p align="center">
+    <a href="https://github.com/Ritikkumar992"><img src="https://github.com/Ritikkumar992/Ritikkumar992/blob/main/forkit.gif" /></a> 
+</p>
+
+
 ### Hi there 👋, I'm RITIK  KUMAR
 #### LOVE TO BUILD PRODUCTS.
-![LOVE TO BUILD PRODUCTS.](https://www.shutterstock.com/image-vector/picture-smart-programmer-man-joggling-programming-735664333)
+<!-- ![LOVE TO BUILD PRODUCTS.](https://www.shutterstock.com/image-vector/picture-smart-programmer-man-joggling-programming-735664333) -->
+
 
 ### 👨‍💻 Who am I?
 ### I am a 1st Year Student at BBIT currently undertaking my Bachelors in Computer Science Engineering. I want to be a Software Developer to get the experience in Development and Analysis with particular expertise in Web, Machine Learning and Cloud Technologies.
