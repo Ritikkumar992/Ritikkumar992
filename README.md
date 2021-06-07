@@ -1,17 +1,21 @@
- <p align="center">
-     <a href="https://github.com/Ritikkumar992"><img src="https://github.com/Ritikkumar992/Ritikkumar992/blob/main/Hello.gif" /></a> 
+<!--  <p align="center">
+     <a href="https://github.com/Ritikkumar992"><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400" /></a> 
+</p> -->
+<p align="center">
+
+ <img align='centre' src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="150">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ritik kumar Kumar</h1>
 
  <p align="center">
-    <a href="https://github.com/Ritikkumar992"><img src="https://github.com/Ritikkumar992/Ritikkumar992/blob/main/forkit.gif" /></a> 
+<!--     <a href="https://github.com/Ritikkumar992"><img src="https://github.com/Ritikkumar992/Ritikkumar992/blob/main/forkit.gif" /></a>  -->
+<!--  "https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2> -->
+ <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400">
 </p>
 
 
-### Hi there 👋, I'm RITIK  KUMAR
-#### LOVE TO BUILD PRODUCTS.
-<!-- ![LOVE TO BUILD PRODUCTS.](https://www.shutterstock.com/image-vector/picture-smart-programmer-man-joggling-programming-735664333) -->
+<h1 align="center"> LOVE TO BUILD PRODUCTS.</h1>
 
 
 ### 👨‍💻 Who am I?
