@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50"> I'm Ritik kumar Kumar </h1>
 
  <p align="center">
- <img align='right' src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif" width="200">
+ <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350">
 </p>
 
 
