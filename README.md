@@ -43,7 +43,7 @@ Skills: C++ / JAVA  / REACT / JS / HTML / CSS
 <!--   <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 <!--   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=c++x&logoColor=red" />&nbsp;&nbsp;
 <!--   <img src="https://img.shields.io/badge/angular%20-%231572B6.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/travis%20-%231572B6.svg?&style=for-the-badge&logo=travis&logoColor=white" />&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/neo4j%20-%231572B6.svg?&style=for-the-badge&logo=neo4j&logoColor=white" />&nbsp;&nbsp; -->
