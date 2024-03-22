@@ -9,7 +9,7 @@
 
 
 ### 👨‍💻 Who am I?
-### I am a 3rd Year Student at BBIT currently undertaking my Bachelors in Computer Science Engineering. I want to be a Software Developer to get the experience in Development and Analysis with particular expertise in Web, Machine Learning and Cloud Technologies.
+### I am a final Year Student at BBIT currently undertaking my Bachelors in Computer Science Engineering. I want to be a Software Developer to get the experience in Development and Analysis with particular expertise in Web, Machine Learning and Cloud Technologies.
 
 
 Skills: C++ / JAVA  / REACT / JS / HTML / CSS
